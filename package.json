@@ -1,0 +1,4 @@
+"scripts": {
+"deploy": "gh-pages -d build"
+},
+"homepage": "https://Isak.Yau.github.io/lil_Bro_BlogPost"
